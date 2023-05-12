@@ -1,0 +1,18 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+body{
+    width: 100%;
+    height: 100vh;
+    background-color: antiquewhite;
+    
+}
+#quadrado{
+    width: 16px;
+    height: 16px;
+    border: 1px solid red;
+    position: absolute;
+}
